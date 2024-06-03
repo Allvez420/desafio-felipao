@@ -31,7 +31,7 @@ else if (XpDoHeroi >= 9001 && 10000){
     console.log(raking = "Imortal")
 }
 
-else if (XpDoHeroi >= 10001){
+else if (XpDoHeroi > 10001){
     console.log(ranking = "Radiante")
 
 }
